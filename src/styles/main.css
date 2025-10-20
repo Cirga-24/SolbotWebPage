@@ -21,7 +21,7 @@ header {
 }
 
 .Inicio {
-    background-image: linear-gradient(rgb(41, 85, 131), rgba(41, 85, 131, 0.598)), url('../images/campo.jpg');
+    background-image: linear-gradient(rgb(41, 85, 131), rgba(41, 85, 131, 0.598)), url('../images/Campo.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
